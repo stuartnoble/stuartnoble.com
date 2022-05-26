@@ -5,9 +5,9 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Stuart Noble"
+title = "stuartnoble.com"
 # logo = "img/logo.jpg"
-# description = "My awesome website"
+ #description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
@@ -15,9 +15,9 @@ dateFormat = "2 January 2006"
 [author]
    name = "Stuart Noble"
   # image = "img/author.jpg"
-  headline = "Musician"
-  bio = "Cloud application developer and architect focused on Kubernetes and distributed service architecture."
-  # links = [
+  headline = "Software engineer and cloud application architect with a fondness for the Juno DS88"
+  #bio = ""
+   links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -30,7 +30,7 @@ dateFormat = "2 January 2006"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  #   { github = "https://github.com/username" },
+   { github = "https://github.com/stuartnoble" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
@@ -38,7 +38,7 @@ dateFormat = "2 January 2006"
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-  #   { linkedin = "https://linkedin.com/in/username" },
+     { linkedin = "https://linkedin.com/in/stuartnoble" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
   #   { microsoft = "https://www.microsoft.com/" },
@@ -49,7 +49,7 @@ dateFormat = "2 January 2006"
   #   { researchgate = "https://www.researchgate.net/profile/username" },
   #   { slack = "https://workspace.url/team/userid" },
   #   { snapchat = "https://snapchat.com/add/username" },
-  #   { soundcloud = "https://soundcloud.com/username" },
+     { soundcloud = "https://soundcloud.com/protractivekeyboardist" },
   #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
   #   { steam = "https://steamcommunity.com/profiles/userid" },
   #   { telegram = "https://t.me/username" },
@@ -59,4 +59,4 @@ dateFormat = "2 January 2006"
   #   { twitter = "https://twitter.com/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
-  # ]
+   ]

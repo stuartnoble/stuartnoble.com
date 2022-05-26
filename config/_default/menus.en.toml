@@ -16,14 +16,24 @@
   weight = 10
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
+  name = "Projects"
+  pageRef = "projects"
   weight = 20
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "Music"
+  pageRef = "music"
   weight = 30
+
+#[[main]]
+#  name = "Categories"
+#  pageRef = "categories"
+#  weight = 20
+
+#[[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
 
 
 # -- Footer Menu --

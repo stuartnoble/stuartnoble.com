@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [author]
    name = "Stuart Noble"
    image = "orangepeel.png"
-   headline = "Software architect & clicky keyboard fan"
+   headline = "Software developer & clicky keyboard fan"
   #bio = "This is a bio"
    links = [
   #   { email = "mailto:hello@your_domain.com" },

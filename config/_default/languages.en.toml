@@ -5,9 +5,9 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-#title = "stuartnoble.com"
+title = ""
 # logo = "img/logo.jpg"
- #description = "My awesome website"
+description = "A place for stuff"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
@@ -15,8 +15,8 @@ dateFormat = "2 January 2006"
 [author]
    name = "Stuart Noble"
    image = "orangepeel.png"
-  headline = "Musician and Technology Enthusiast"
-  bio = "This is a bio"
+   headline = "Software architect & clicky keyboard fan"
+  #bio = "This is a bio"
    links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
